@@ -1,4 +1,4 @@
-<p align="center"><h1>Zokou-2.0 🚀</h1><br> </p>
+<p align="center"><h1>♛𝐀𝐓𝐎𝐌𝐈𝐂❖𝗠𝗗♛</h1><br> </p>
 
 ![banner](Zokou.jpg)
 
@@ -49,17 +49,17 @@ Zokou est un bot multi-devices conçu pour enrichir vos conversations WhatsApp a
   7. Dans la section **environemment variable**, cliquez sur **Add from .env** et copiez le contenu suivant :
 
      ```env
-     PREFIXE=.
+     PREFIXE=¥
      LECTURE_AUTO_STATUS=oui
      TELECHARGER_AUTO_STATUS=oui
-     NOM_BOT=Zokou-MD
-     LIENS_MENU=https://wallpapercave.com/uwp/uwp3943464.jpeg
+     NOM_BOT=『❖𝐀𝐓𝐎𝐌𝐈𝐂❖𝐌𝐃✄𝐕𝐅❖』
+     LIENS_MENU=https://i.imgur.com/e5BNAp9.jpeg
      PM_PERMIT=non
      MODE_PUBLIC=oui
      ETAT=1
      SESSION_ID=zokk
-     NOM_OWNER=Djalega++
-     NUMERO_OWNER=22891733300
+     NOM_OWNER=𒁂𝐂𝐈𝐃✄𝐊𝐀𝐆𝐄𝐍𝐎𒁂
+     NUMERO_OWNER=22871394585
      WARN_COUNT=3
      STARTING_BOT_MESSAGE=oui
      ANTI_VUE_UNIQUE=oui
@@ -123,7 +123,7 @@ jobs:
 
 ## Contributions 🤝
 
-Les contributions à Zokou sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull. 🙌
+Les contributions à Zokou sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull. 🙌 **❖𝐒𝐇𝐀𝐃𝐎𝐖❖**
 
 ### Remerciements :
 - **Fatao**, qui a ajouté des commandes (Fancy, GPT, Dall-e, APK)  
@@ -133,8 +133,9 @@ Les contributions à Zokou sont les bienvenues ! Si vous avez des idées pour de
 
 Le Bot WhatsApp Zokou est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
-Profitez des fonctionnalités variées du Bot WhatsApp Zokou pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante ! 🎊💬
+Profitez des fonctionnalités variées du Bot WhatsApp Zokou 『**𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐬𝐡𝐚𝐝𝐨𝐰 𝐠𝐚𝐫𝐝𝐞𝐧**』 pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante ! 🎊💬
 
 ## Développeurs :
 - [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
 - [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
+[**𒁂𝐂𝐈𝐃✄𝐊𝐀𝐆𝐄𝐍𝐎𒁂**](https://github.com/Cidkageno01)
