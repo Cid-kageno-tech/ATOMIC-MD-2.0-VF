@@ -35,7 +35,7 @@ zokou({ nomCom: "menu", categorie: "Général" }, async (dest, zk, commandeOptio
       
     ╚═════ ▓▓ ࿇ ▓▓ ═════╝*/
     /* menuMsg+=`
-   ╔════ ▓▓ ࿇ ▓▓ ════╗
+╔═══❖•ೋ° °ೋ•❖═══╗
    
    ||
    ||     Préfixe : ${s.prefixe}
@@ -44,9 +44,15 @@ zokou({ nomCom: "menu", categorie: "Général" }, async (dest, zk, commandeOptio
    ||      Date : ${date}
    ||      Heure : ${temps}
    ||      Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
-   ||  Développeurs : Djalega++||Luffy
-   ||
-   ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
+   ||  Développeurs :꧁ঔৣ☬✞𝐜𝐢𝐝✞☬ঔৣ꧂
+   ||□□□□□ 0%
+   ▏▎■□□□□ 20%
+   ▎▏■■□□□ 40%
+   ▏▎■■■□□ 60%
+   ▎▏■■■■□ 80%
+   ▏▎■■■■■ 100%
+   ▎▏ ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ━╬٨ـﮩﮩ❤٨ـﮩﮩـ╬━ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ𝗜 𝗔𝗠 𝗔𝗧𝗢𝗠𝗜𝗖〓〓〓〓〓
+   ╚═══❖•ೋ° °ೋ•❖═══╝`;*/
     menuMsg += `
 ╔════---------
 ║    Préfixe : ${s.PREFIXE}
@@ -57,7 +63,7 @@ zokou({ nomCom: "menu", categorie: "Général" }, async (dest, zk, commandeOptio
 ║    Heure : ${temps}
 ║    Mémoire : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ║    Plateforme : ${os.platform()}
-║    Développeurs : Djalega++||Luffy
+║    Développeurs : 𝘀𝗵𝗮𝗱𝗼𝘄
 ╚════--------------- \n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
