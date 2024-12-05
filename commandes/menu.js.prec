@@ -27,7 +27,7 @@ zokou({ nomCom: "menu", categorie: "Général" }, async (dest, zk, commandeOptio
     
     
     
-    Owner : ${s.NOM_OWNER} \n       || Commandes : ${cm.length} \n        || Date : ${date}\n || Heure : ${temps} \n || Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}\n || Plateforme : ${os.platform()}\n || Developpeur : Djalega++ \n\n ╰────────────────`;
+    𝗢𝗪𝗡𝗘𝗥 : ${s.NOM_OWNER} \n       || 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗘𝗦 : ${cm.length} \n        || 𝗗𝗔𝗧𝗘 : ${date}\n || 𝗛𝗘𝗨𝗥 : ${temps} \n || 𝗠𝗘𝗠𝗢𝗜𝗥𝗘 : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}\n || 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠 : ${os.platform()}\n || 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗣𝗘𝗨𝗥 : ×͡×𝐌𝐚𝐫𝐜×͜×™☑ \n\n ╚■□■□■□■□■□■□■□■□`;
     
     
     
