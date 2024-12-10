@@ -69,15 +69,15 @@ zokou({ nomCom: "menu", categorie: "Général" }, async (dest, zk, commandeOptio
         if (!emoji[cat]) {
             emoji[cat] = "💞";
         }
-        menuMsg += `${emoji[cat]} ══ *${cat} * ══ ${emoji[cat]}\n`;
+        menuMsg += `${emoji[cat]} ▱▰ *${cat} * ▱▰ ${emoji[cat]}\n`;
         for (const cmd of coms[cat]) {
-            menuMsg += "\t  ║ " + cmd + "" + " \n";
+            menuMsg += "\t  ▮ " + cmd + "" + " \n";
         }
     }
     //  var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg";
     var link = s.IMAGE_MENU;
     try {
-        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "by Djalega++" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "by ♕𝑺𝑯𝑨𝑫𝑶𝑾♕" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -123,7 +123,7 @@ var tt=[]
 
     var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg"
     // var listCom =listeCommande()
-    let msg= "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n"
+    let msg= "  ╚▰▱▰ * ░A░T░O░M░I░C * ▰▱▰╝\n\n"
 
 
 //const listeCommande= async ()=> {
